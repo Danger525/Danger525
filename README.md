@@ -92,9 +92,9 @@ I am a Computer Science graduate (Expected 2025) with strong fundamentals in dat
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/subhajit-j-a3abb2255" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/subhajit-j-a3abb2255" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="mailto:subhajitjati525@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
